@@ -1,0 +1,8 @@
+.App {
+  padding: 1em;
+}
+
+.App .LoanCalculator {
+  margin: 0 auto;
+  width: 30em;
+}
