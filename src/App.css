@@ -4,5 +4,5 @@
 
 .App .LoanCalculator {
   margin: 0 auto;
-  width: 30em;
+  max-width: 30em;
 }
