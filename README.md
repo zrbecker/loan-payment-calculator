@@ -1,3 +1,3 @@
 A simple JavaScript loan payment calculator.
 
-Hosted on AWS: [Link](http://loan-payment-calculator.s3-website-us-west-1.amazonaws.com/)
+Hosted on AWS: [Link](https://d3dx8mbn5oz89y.cloudfront.net/)
